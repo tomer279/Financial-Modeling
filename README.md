@@ -85,13 +85,21 @@ validator.print_results(results)
 
 ## Project Structure
 ├── main.py # Main execution script
+
 ├── config.py # Configuration settings
+
 ├── black_scholes.py # Black-Scholes model implementation
+
 ├── greeks.py # Option Greeks calculations
+
 ├── monte_carlo.py # Monte Carlo simulations
+
 ├── parameter_estimation.py # Parameter estimation methods
+
 ├── backtesting.py # Backtesting framework
+
 ├── visualization.py # Plotting and visualization
+
 └── requirements.txt # Dependencies
 
 ## Configuration
@@ -124,5 +132,6 @@ MIT License
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Disclaimer
+
 
 This software is for educational and research purposes only. It should not be used for actual trading decisions without proper risk management and professional financial advice.
