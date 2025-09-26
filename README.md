@@ -1,8 +1,8 @@
 # Financial Modeling Toolkit
 
-**Note**: This project was partially developed with assistance from Cursor.ai, an AI-powered code editor.
-
 A comprehensive Python toolkit for financial modeling, option pricing, and backtesting using the Black-Scholes model and Monte Carlo simulations.
+
+**Note**: This project was partially developed with assistance from Cursor.ai, an AI-powered code editor.
 
 ## Features
 
@@ -137,4 +137,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 This software is for educational and research purposes only. It should not be used for actual trading decisions without proper risk management and professional financial advice.
+
 
